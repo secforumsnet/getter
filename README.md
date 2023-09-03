@@ -15,7 +15,7 @@ This Python script checks URLs for GET parameters and their HTTP status codes, s
         <li>Clone or download the repository.</li>
         <li>Open your terminal or command prompt.</li>
         <li>Navigate to the script's directory.</li>
-        <li>Run the script: `python url_parameter_checker.py`</li>
+        <li>Run the script: `python getter.py`</li>
         <li>Follow on-screen prompts to specify input and output files.</li>
     </ol>
 
