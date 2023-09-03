@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-    <title>URL Status Checker</title>
-</head>
-
-<body>
 
     <h1>URL Status Checker</h1>
 
@@ -56,6 +49,4 @@
     <pre><code>Enter the path to the output file to save all results: all_results.txt</code></pre>
     <pre><code>Enter the path to the output file to save success URLs (HTTP 200): success_urls.txt</code></pre>
 
-</body>
 
-</html>
